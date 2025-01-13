@@ -75,10 +75,18 @@ The internship's primary goal was to design a dashboard for Excelerate’s leade
 ## Repository Structure
 
 |-- datasets/ # Contains the user and opportunities datasets. 
-|-- wireframes/ # Wireframe designs of the dashboard. 
-|-- analysis/ # Python scripts for EDA and preprocessing. 
-|-- dashboard/ # Screenshots and links to the Google Data Studio dashboard. 
-|-- presentation/ # Final presentation materials. 
+|-- Week1 report/ # Python scripts for EDA and preprocessing 
+    |-- Excelerate_opportunitydata.ipynb
+    |-- Excelerate_userdata.ipynb
+|-- Week2 report/ 
+      |-- wireframes/ # Wireframe designs of the dashboard.
+      |-- Week2_preprocessing/ ## Python scripts for EDA and preprocessing using both datasets and further analysis
+|-- Week3 report/ 
+      |-- dashboard/ # Screenshots and links to the Google Data Studio dashboard. 
+|-- Week4 report/
+      |-- Week4_final_dashboard_ppt --presentation/ # Final presentation materials. 
+      |-- Week4_finaldashboard_Analysis_script
+      |-- Week4_presentation_recording
 |-- README.md # Project overview and details.
 
 ---
@@ -88,6 +96,10 @@ The internship's primary goal was to design a dashboard for Excelerate’s leade
 - Enhance the dashboard by incorporating advanced analytics and machine learning insights.
 - Explore additional data visualization tools for more interactive designs.
 - Extend the dashboard to include real-time data updates.
+
+---
+## Dash board link:
+https://lookerstudio.google.com/reporting/ca4badf7-7486-4ed4-b2f1-dd8e8a47d5d1 
 
 ---
 
